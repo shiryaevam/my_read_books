@@ -1,2 +1,4 @@
-# my_read_books
-my read books that I find useful
+# My read books
+### *My read books, that I find useful*
+
+- **Learning React** Modern Patterns for Developing React Apps
